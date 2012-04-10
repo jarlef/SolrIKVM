@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SolrIKVM">
+</Property><Property Name="Solution File" Value="C:\Development\Github\SolrIKVM\SolrIKVM.sln">
+</Property><Property Name="User Options File" Value="C:\Development\Github\SolrIKVM\SolrIKVM.v11.suo">
+</Property><Property Name="Date" Value="10. april 2012">
+</Property><Property Name="Time" Value="19:46">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="SolrIKVM.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="SolrIKVM.sln" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrIKVM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SolrIKVM.v11.suo" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrIKVM.v11.suo">
+</Event><Event ErrorLevel="3" Project="SolrAspNet" Source="SolrAspNet\SolrAspNet.csproj" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\SolrAspNet.csproj" Description="Project file successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\SolrAspNet.csproj">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\SolrAspNet.csproj.user" Description="Project user file successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\SolrAspNet.csproj.user">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\Global.asax.cs" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\Global.asax.cs">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\Global.asax" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\Global.asax">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\Web.config" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\Web.config">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\Web.Debug.config" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\Web.Debug.config">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\Web.Release.config" Description="File successfully backed up as C:\Development\Github\SolrIKVM\Backup\SolrAspNet\Web.Release.config">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\SolrAspNet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SolrAspNet" Source="SolrAspNet\SolrAspNet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SolrIKVM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SolrIKVM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SolrAspNet" Source="SolrAspNet\SolrAspNet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
