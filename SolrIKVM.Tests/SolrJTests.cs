@@ -9,6 +9,7 @@ using org.apache.solr.client.solrj.impl;
 using org.apache.solr.core;
 
 namespace SolrIKVM.Tests {
+    
     [TestFixture]
     public class SolrJTests {
         const string solrUrl = "http://localhost:8794/solr.axd";

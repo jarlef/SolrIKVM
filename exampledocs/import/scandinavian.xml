@@ -1,0 +1,46 @@
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one or more
+ contributor license agreements.  See the NOTICE file distributed with
+ this work for additional information regarding copyright ownership.
+ The ASF licenses this file to You under the Apache License, Version 2.0
+ (the "License"); you may not use this file except in compliance with
+ the License.  You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<add>
+<doc>
+  <field name="id">SCND100</field>
+  <field name="name">Calle Ohlsons Fotokamera</field>
+  <field name="cat">Camera</field>
+  <field name="price">100</field>
+  <field name="popularity">10</field>
+  <field name="inStock">true</field>
+</doc>
+<doc>
+  <field name="id">SCND101</field>
+  <field name="name">Kalle Olsens Fotokamera</field>
+  <field name="cat">Camera</field>
+  <field name="price">85</field>
+  <field name="popularity">6</field>
+  <field name="inStock">true</field>
+</doc>
+
+<doc>
+  <field name="id">SCND102</field>
+  <field name="name">Kalle Olsens Fotografi</field>
+  <field name="cat">Photo</field>
+  <field name="price">5</field>
+  <field name="popularity">2</field>
+  <field name="inStock">true</field>
+</doc>
+
+</add>
+

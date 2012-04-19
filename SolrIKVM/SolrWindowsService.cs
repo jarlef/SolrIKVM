@@ -2,6 +2,8 @@
 using System.ServiceProcess;
 using org.apache.solr.client.solrj.embedded;
 using System;
+using org.mortbay.jetty;
+using org.mortbay.jetty.webapp;
 
 namespace SolrIKVM {
     public class SolrWindowsService : ServiceBase {
@@ -12,6 +14,7 @@ namespace SolrIKVM {
         public SolrWindowsService() {
             var home = ConfigurationManager.AppSettings["solr.home"];
             Setup.SetHome(home);
+
             jetty = new JettySolrRunner("/solr", Setup.Port());
             ServiceName = Name;
         }

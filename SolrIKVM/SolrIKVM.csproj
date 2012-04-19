@@ -151,6 +151,19 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="conf\scripts.conf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="conf\elevate.xml" />
+    <Content Include="conf\mapping-FoldToASCII.txt" />
+    <Content Include="conf\mapping-ISOLatin1Accent.txt" />
+    <Content Include="conf\protwords.txt" />
+    <Content Include="conf\schema.xml" />
+    <Content Include="conf\solrconfig.xml" />
+    <Content Include="conf\spellings.txt" />
+    <Content Include="conf\stopwords.txt" />
+    <Content Include="conf\stopwords_en.txt" />
+    <Content Include="conf\synonyms.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
